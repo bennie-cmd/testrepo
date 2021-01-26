@@ -1,0 +1,19 @@
+body{background-color: gray;}
+
+
+#tit{
+	color: blue;
+	padding-left: 0 auto;
+	align-content: center;
+
+}
+#part1{
+	color: black;
+	align-content: center;
+	padding-left: 0 auto;
+}
+#part2{
+	color: brown;
+	align-content: center;
+	padding-left: 0 auto;
+}
